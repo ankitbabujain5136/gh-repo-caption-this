@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Genpact Admins
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
